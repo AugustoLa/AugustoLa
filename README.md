@@ -1,6 +1,3 @@
-![Snake animation](https://github.com/AugustoLa/AugustoLa/blob/output/github-contribution-grid-snake.svg)
-
-
 # Olá, me chamo Augusto! 
 ## Bem vindo ao meu perfil GitHub 👋
 
