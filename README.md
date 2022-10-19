@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/AugustoLa/AugustoLa/blob/output/github-contribution-grid-snake.svg)
+
+
 # Olá, me chamo Augusto! 
 ## Bem vindo ao meu perfil GitHub 👋
 
@@ -20,9 +23,3 @@
 <a href="https://www.linkedin.com/in/augusto-laursen-745a69160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
-<div>
-<a href="https://github.com/AugustoLa">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?AugustoLa&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?AugustoLa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
