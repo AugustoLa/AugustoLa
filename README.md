@@ -1,5 +1,12 @@
-# Olá, me chamo Augusto! 
-## Bem vindo ao meu perfil GitHub 👋
+# Hello there! My name's Augusto! 
+##  Welcome to my github profile 👋
+
+🔭 passionate about games and puzzles
+🌱 I’m currently learning how to live a better live! 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2022 Goals: Learn more about web3
+⚡ Currently working in an NFT plataform
+
 
 
 -------
