@@ -9,13 +9,7 @@
 
 🥅 Objetivos de 2023: Me aprofundar em Rest API e banco de dados.
 
-⚡ Atualmente trabalhando em uma plataforma ASP.NET e em meu Site de Portfólio
 
-
-
-Visite minha página, lá estarei atualizando e postando todos os meus projetos: 
-
-https://augustola.github.io/WebPortfolio/
 
 -------
 
